@@ -15,3 +15,7 @@ Requirements: This is a Command Line Interface application using Node.js and MyS
 ### GitHub Repository
 
 [Link to bamazon GitHub Repository](https://github.com/jRol/bamazon)
+
+### Updated Portfolio
+
+[Link to Updated Portfolio](https://jrol.github.io/Updated-Portfolio-Page-1/)
