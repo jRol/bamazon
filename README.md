@@ -10,6 +10,8 @@ Requirements: This is a Command Line Interface application using Node.js and MyS
 
 ### Demo Video
 
-[Bamazon Demo Video] (https://drive.google.com/file/d/1now-CkMSBeO7WkrrKGp6dcbe9J0S6iNt/view?usp=sharing)
+[Bamazon Demo Video](https://drive.google.com/file/d/1now-CkMSBeO7WkrrKGp6dcbe9J0S6iNt/view?usp=sharing)
 
-[Link to bamazon GitHub Repository] (https://github.com/jRol/bamazon)
+### GitHub Repository
+
+[Link to bamazon GitHub Repository](https://github.com/jRol/bamazon)
