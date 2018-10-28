@@ -18,4 +18,4 @@ Requirements: This is a Command Line Interface application using Node.js and MyS
 
 ### Updated Portfolio
 
-[Link to Updated Portfolio](https://jrol.github.io/Updated-Portfolio-Page-1/)
+[Link to Updated Portfolio - Bamazon](https://jrol.github.io/Updated-Portfolio-Bamazon/)
